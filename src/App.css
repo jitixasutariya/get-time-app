@@ -1,3 +1,19 @@
+/* Sets the background color of the entire page to a light gray */
+body {
+  background-color: #c0c0c0;
+}
+
+/* Styles the button with a pink background, white border and text, rounded corners, center-aligned text, padding, pointer cursor on hover, and larger font size */
+.btn {
+  background-color: #f542d7;
+  border: 3px solid white;
+  color: white;
+  border-radius: 8px;
+  text-align: center;
+  padding: 20px;
+  cursor: pointer;
+  font-size: 20px;
+}
 .App {
   text-align: center;
 }
